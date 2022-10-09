@@ -511,10 +511,6 @@ PROJECTS
     transition: all 600ms ease;
 }
 
-.project__img--second{
-    width: 100%;
-    height: 100vh;
-}
 
 .project__list {
     padding: 48px;
